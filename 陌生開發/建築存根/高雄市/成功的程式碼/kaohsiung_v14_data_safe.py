@@ -31,7 +31,7 @@ logger = logging.getLogger(__name__)
 BASE_PATH = r'/Users/wangliwen/Desktop/ JLL/陌生開發/建築存根/高雄市'
 
 # 🎯 設定年份
-TARGET_YEARS = ["109", "108", "107", "106", "105"]
+TARGET_YEARS = ["110", "111", "112", "113", "114"]
 
 # 🎯 設定範圍
 START_NUM = 1
